@@ -12,6 +12,9 @@
         <!--开启驼峰转换-->
         <setting name="mapUnderscoreToCamelCase" value="true"/>
         <!--<setting name="logImpl" value="STDOUT_LOGGING"/> &lt;!&ndash; 打印日志信息 &ndash;&gt;-->
+        <!--在本项目中开启二级缓存-->
+        <setting name="cacheEnabled" value="true" />
+
     </settings>
 
 
